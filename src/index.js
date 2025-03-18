@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function() {
       // empty the input box cause damn im good at this
       inputThing.value = "";
     } else {
-      // forgot to type something 🤦‍♂️
+      // forgot to type something 
       alert("write something first!!!");
     }
   });
