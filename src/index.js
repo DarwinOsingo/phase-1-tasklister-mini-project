@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // get the text u typed
     const inputThing = document.getElementById('new-task-description');
     const task = inputThing.value;
+    
 
     if (task != "") {
       // make a new list item 
